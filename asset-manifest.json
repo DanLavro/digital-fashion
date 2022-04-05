@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digital-fashion/static/css/main.a8108ca5.css",
+    "main.js": "/digital-fashion/static/js/main.488ab8c9.js",
+    "index.html": "/digital-fashion/index.html",
+    "main.a8108ca5.css.map": "/digital-fashion/static/css/main.a8108ca5.css.map",
+    "main.488ab8c9.js.map": "/digital-fashion/static/js/main.488ab8c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8108ca5.css",
+    "static/js/main.488ab8c9.js"
+  ]
+}
