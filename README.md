@@ -1,8 +1,8 @@
 # Тестовое задание Artisant
 
-Демо:
+Демо: https://danlavro.github.io/digital-fashion/
 
-Как запустить: https://danlavro.github.io/digital-fashion/
+Как запустить: 
 
 ```
 git clone https://github.com/DanLavro/digital-fashion.git
