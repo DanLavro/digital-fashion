@@ -2,7 +2,7 @@
 
 Демо:
 
-Как запустить:
+Как запустить: https://danlavro.github.io/digital-fashion/
 
 ```
 git clone https://github.com/DanLavro/digital-fashion.git
